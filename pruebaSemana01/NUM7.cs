@@ -13,7 +13,6 @@ namespace pruebaSemana01
         {
             public int Valor;
             public Nodo Siguiente;
-
             public Nodo(int valor)
             {
                 Valor = valor;
